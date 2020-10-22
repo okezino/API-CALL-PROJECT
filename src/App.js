@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="container home" >
             <h4 >
-               Click the button below to generate a random profile 
+               Click the button below 
             </h4>
             <button type="button" onClick={submit} className="btn px-4 my-4 btn-outline-success">Click</button>
             <form>
